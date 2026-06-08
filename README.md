@@ -122,26 +122,6 @@ Network-Security-Lab/
 
 \---
 
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/network-security-lab.git
-
-Navigate to the project folder:
-
-cd network-security-lab
-
-Run any Python program:
-
-python filename.py
-
-Example:
-
-python 01\_Caesar\_Cipher.py
-
-\---
-
 🎯 Concepts Covered
 
 \- Classical Encryption Techniques
