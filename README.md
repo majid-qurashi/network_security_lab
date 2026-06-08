@@ -8,7 +8,7 @@ This repository was developed as part of Network Security Laboratory coursework 
 
 📚 Programs Included
 
-Classical Cryptography
+# Classical Cryptography
 
 1\. Caesar Cipher
 
@@ -18,7 +18,7 @@ Classical Cryptography
 
 4\. Rail Fence Cipher
 
-Mathematical Algorithms
+# Mathematical Algorithms
 
 5\. Euclidean Algorithm
 
@@ -30,7 +30,7 @@ Mathematical Algorithms
 
 9\. Fermat's Theorem
 
-Modern Cryptography
+# Modern Cryptography
 
 10\. DES (Data Encryption Standard)
 
@@ -83,64 +83,6 @@ pip install numpy
 pip install sympy
 
 pip install pycryptodome
-
-\---
-
-📁 Project Structure
-
-Network-Security-Lab/
-
-│
-
-├── 01\_Caesar\_Cipher.py
-
-├── 02\_Playfair\_Cipher.py
-
-├── 03\_Hill\_Cipher.py
-
-├── 04\_Rail\_Fence\_Cipher.py
-
-├── 05\_Euclidean\_Algorithm.py
-
-├── 06\_Extended\_Euclidean\_Algorithm.py
-
-├── 07\_DES.py
-
-├── 08\_AES.py
-
-├── 09\_RC4.py
-
-├── 10\_RSA.py
-
-├── 11\_Diffie\_Hellman.py
-
-├── 12\_Eulers\_Totient\_Function.py
-
-├── 13\_Chinese\_Remainder\_Theorem.py
-
-└── 14\_Fermats\_Theorem.py
-
-\---
-
-🎯 Concepts Covered
-
-\- Classical Encryption Techniques
-
-\- Symmetric Key Cryptography
-
-\- Asymmetric Key Cryptography
-
-\- Block Ciphers
-
-\- Stream Ciphers
-
-\- Key Exchange Protocols
-
-\- Modular Arithmetic
-
-\- Number Theory in Cryptography
-
-\- Secure Communication Principles
 
 \---
 
